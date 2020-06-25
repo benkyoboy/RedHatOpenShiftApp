@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Then Arifin Project",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
